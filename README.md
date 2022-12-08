@@ -7,7 +7,7 @@ all lines are covered, but one `if` branch is not:
 
 ![grafik](https://user-images.githubusercontent.com/291575/206483176-8d51afbe-4581-4076-a0eb-a8145a799d2f.png)
 
-This is only captured in the “regions” metric in the summary:
+This is only captured in the “regions” metric in the [summary](https://flying-sheep.github.io/region-cov-example/):
 
 ![grafik](https://user-images.githubusercontent.com/291575/206483330-c2ef57e1-32c0-4198-aba4-b5e1847aadc0.png)
 
