@@ -1,2 +1,2 @@
 html:
-    cargo llvm-cov --html
+    cargo llvm-cov --all-features --workspace --html
