@@ -33,7 +33,7 @@ jobs:
     - name: Fix permissions
       run: find target/llvm-cov/html -type d -exec chmod 0755 {} \;
     - name: Upload pages artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v3
       with:
         path: target/llvm-cov/html
 
